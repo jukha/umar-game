@@ -1,0 +1,135 @@
+body {
+  font-family: "Press Start 2P", cursive;
+}
+h1,h4 {
+  text-align: center;
+}
+h4{
+    display: none;
+}
+.final{
+    font-size:20px;
+    text-align: center;
+}
+.parent {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+.box {
+  display: flex;
+  align-items: center;
+}
+.color {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.c-1 {
+  background-color: greenyellow;
+}
+.c-2 {
+  background-color: blue;
+}
+.c-3 {
+  background-color: orange;
+}
+.c-4 {
+  background-color: yellow;
+}
+.c-5 {
+  background-color: red;
+}
+.c-6 {
+  background-color: brown;
+}
+.c-7 {
+  background-color: darkgreen;
+}
+.c-8 {
+  background-color: rgb(163, 50, 50);
+}
+.c-9 {
+  background-color: pink;
+}
+.c-10 {
+  background-color: crimson;
+}
+.c-11 {
+  background-color: lightpink;
+}
+.c-12 {
+  background-color: goldenrod;
+}
+.c-13 {
+  background-color: silver;
+}
+.c-14 {
+  background-color: orangered;
+}
+.c-15 {
+  background-color: maroon;
+}
+.c-16 {
+  background-color: forestgreen;
+}
+.c-17 {
+  background-color: lightpink;
+}
+.c-18 {
+  background-color: #fafa33;
+}
+.c-19 {
+  background-color: blueviolet;
+}
+.c-20 {
+  background-color: violet;
+}
+.c-21 {
+  background-color: darkgoldenrod;
+}
+.c-22 {
+  background-color: chocolate;
+}
+.c-23 {
+  background-color: blanchedalmond;
+}
+.c-24 {
+  background-color: teal;
+}
+.c-25 {
+  background-color: chartreuse;
+}
+.c-26 {
+  background-color: salmon;
+}
+.c-27 {
+  background-color: deeppink;
+}
+.c-28 {
+  background-color: navy;
+}
+.c-29 {
+  background-color: turquoise;
+}
+.c-30 {
+  background-color: firebrick;
+}
+.c-31 {
+  background-color: plum;
+}
+.c-32 {
+  background-color: palegreen;
+}
+.c-33 {
+  background-color: yellowgreen;
+}
+.removeColor{
+    background-color: transparent;
+}
